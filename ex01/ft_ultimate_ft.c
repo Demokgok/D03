@@ -6,13 +6,13 @@
 /*   By: demokgok <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/07/15 07:53:05 by demokgok          #+#    #+#             */
-/*   Updated: 2020/07/15 07:55:30 by demokgok         ###   ########.fr       */
+/*   Updated: 2020/07/15 16:24:28 by demokgok         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <unistd.h>
 
-void ft_ultimate_ft(int ********nbr)
+void ft_ultimate_ft(int *********nbr)
 {
 	*********nbr = 42;
 }
